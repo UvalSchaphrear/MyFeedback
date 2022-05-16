@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MyFeedback/static/css/main.e14079fa.css",
+    "main.js": "/MyFeedback/static/js/main.40057b55.js",
+    "static/media/TitilliumWeb-Regular.ttf": "/MyFeedback/static/media/TitilliumWeb-Regular.e53e0538893d432e0635.ttf",
+    "static/media/TitilliumWeb-SemiBold.ttf": "/MyFeedback/static/media/TitilliumWeb-SemiBold.d4d3eeb6e2367e6796c3.ttf",
+    "static/media/TitilliumWeb-Bold.ttf": "/MyFeedback/static/media/TitilliumWeb-Bold.a267a8b6b783d7d62039.ttf",
+    "static/media/helpful.svg": "/MyFeedback/static/media/helpful.7d16be465aff0c6e6e5007921d059d6d.svg",
+    "static/media/helpfulActive.svg": "/MyFeedback/static/media/helpfulActive.b23fe15025e6b931bf9fa62ba91ff744.svg",
+    "static/media/notHelpful.svg": "/MyFeedback/static/media/notHelpful.3dc0344aaff5d4b81f5e9bf5921ffc34.svg",
+    "static/media/notHelpfulActive.svg": "/MyFeedback/static/media/notHelpfulActive.51bbcea7f916fc8ed96c694c7f46e9b6.svg",
+    "index.html": "/MyFeedback/index.html",
+    "main.e14079fa.css.map": "/MyFeedback/static/css/main.e14079fa.css.map",
+    "main.40057b55.js.map": "/MyFeedback/static/js/main.40057b55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e14079fa.css",
+    "static/js/main.40057b55.js"
+  ]
+}
